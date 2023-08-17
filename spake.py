@@ -1,8 +1,6 @@
 import pygame
 from random import randrange
 
-
-
 #colors
 BLUE = (0, 0, 255)
 BLACK = (0, 0, 0)
